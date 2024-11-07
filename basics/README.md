@@ -1,2 +1,2 @@
 #!/bin/bash
-This is a test ver\n\n
+This is a test echo "ver\n\n"
