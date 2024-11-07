@@ -1,2 +1,3 @@
+#!/bin/bash
 This is a test
-This is updated file
+This is an updated file
